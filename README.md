@@ -26,25 +26,6 @@ It demonstrates how to collect, analyze, and visualize job market data using an 
 - Git + GitHub for publishing
 
 ---
-
-## 📂 Project Structure
-
-```plaintext
-ibm-capstone-data-analyst/
-└── module-1-real-world-projects/
-    └── job-data-api-project/
-        ├── data/
-        ├── notebooks/
-        │   └── job_data_api_project_enhanced.ipynb
-        ├── visuals/
-        │   ├── python_job_listings_by_city.png
-        │   ├── total_job_listings_by_city.png
-        │   └── top_15_job_titles_chart.png
-        ├── dashboard/               # optional exports
-        └── README.md
-
-
----
 ## 📈 Key Functional Highlights
 
 - `get_number_of_jobs_T(technology)`
@@ -97,6 +78,24 @@ Explore the full project with visuals and insights via the hosted dashboard:
 [![IBM Certificate Thumbnail](certification/ibm-data-visualization-thumbnail.png)](https://www.coursera.org/account/accomplishments/verify/ARTLBRAPJ68Q)
 
 > [Verify Capstone Certificate on Credly](https://www.credly.com/badges/259d69a8-bd52-47fb-b02e-19947b158dc6/public_url)
+
+---
+
+## 📂 Project Structure
+
+```plaintext
+ibm-capstone-data-analyst/
+└── module-1-real-world-projects/
+    └── job-data-api-project/
+        ├── data/
+        ├── notebooks/
+        │   └── job_data_api_project_enhanced.ipynb
+        ├── visuals/
+        │   ├── python_job_listings_by_city.png
+        │   ├── total_job_listings_by_city.png
+        │   └── top_15_job_titles_chart.png
+        ├── dashboard/               # optional exports
+        └── README.md
 
 ---
 
