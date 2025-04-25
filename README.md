@@ -70,7 +70,6 @@ Explore the full project with visuals and insights via the hosted dashboard:
 - 📁 **Original Jupyter Notebook**: `notebooks/Collecting_job_data_using_APIs-Lab.ipynb`
 - 📄 **Static HTML Version**: [`Collecting_job_data_using_APIs-Lab.html`](https://kelechiede.github.io/Project_1_Data-Collection-using-APIs/dashboard/Collecting_job_data_using_APIs-Lab.html)
 
-
 ---
 
 ## 📜 Certification
@@ -78,6 +77,16 @@ Explore the full project with visuals and insights via the hosted dashboard:
 [![IBM Certificate Thumbnail](certification/ibm-data-visualization-thumbnail.png)](https://www.coursera.org/account/accomplishments/verify/ARTLBRAPJ68Q)
 
 > [Verify Capstone Certificate on Credly](https://www.credly.com/badges/259d69a8-bd52-47fb-b02e-19947b158dc6/public_url)
+
+---
+
+## 🧑‍💼 Author
+
+**Kelechukwu Innocent Ede**  
+IBM Certified Data Analyst  
+🔗 GitHub: [@Kelechiede](https://github.com/Kelechiede)  
+🔗 LinkedIn: [Kelechukwu Innocent Ede](https://www.linkedin.com/in/kelechukwu-innocent-ede-b448aa134/)  
+📧 Email: kelechukwuede@gmail.com
 
 ---
 
@@ -97,12 +106,4 @@ ibm-capstone-data-analyst/
         ├── dashboard/               # optional exports
         └── README.md
 
----
 
-## 🧑‍💼 Author
-
-**Kelechukwu Innocent Ede**  
-IBM Certified Data Analyst  
-🔗 GitHub: [@Kelechiede](https://github.com/Kelechiede)  
-🔗 LinkedIn: [Kelechukwu Innocent Ede](https://www.linkedin.com/in/kelechukwu-innocent-ede-b448aa134/)  
-📧 Email: kelechukwuede@gmail.com
