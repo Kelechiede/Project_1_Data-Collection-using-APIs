@@ -80,9 +80,9 @@ Explore the full project with visuals and insights via the hosted dashboard:
 
 ---
 
-## 🧑‍💼 Author
+## 🧑‍💼 Authors:
 
-**Kelechukwu Innocent Ede**  
+**Kelechukwu Innocent Ede, and Ayushi Jain, Rav Ahuja, Lakshmi Holla, and Malika**  
 IBM Certified Data Analyst  
 🔗 GitHub: [@Kelechiede](https://github.com/Kelechiede)  
 🔗 LinkedIn: [Kelechukwu Innocent Ede](https://www.linkedin.com/in/kelechukwu-innocent-ede-b448aa134/)  
